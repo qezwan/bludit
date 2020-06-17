@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 [بلودیت](https://www.bludit.com/)
 ================================
 سیستەمێکی بەڕێوەبردنی ناوەرۆک بەخێرایی، سادەیی و نەرمی.
@@ -67,4 +69,6 @@ You just need a web server with PHP support.
 
 مۆڵەتدان
 -------
-بلودیت سەرچاوەکراوەیە و لە مۆڵەتدانی [MIT license](https://tldrlegal.com/license/mit-license) سوود دەگرێ. 
+بلودیت سەرچاوەکراوەیە و لە مۆڵەتدانی [MIT license](https://tldrlegal.com/license/mit-license) سوود دەگرێ.
+
+</div>
