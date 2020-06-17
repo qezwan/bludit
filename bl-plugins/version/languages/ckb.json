@@ -1,0 +1,9 @@
+{
+	"plugin-data":
+	{
+		"name": "وشان",
+		"description": "نیشاندانی وشانی سیستەم لە شریتی لاتەنیشتی بلورید."
+	},
+	"show-current-version-in-the-sidebar": "نیشاندانی وشانی ئێستا لە شریتی لاتەنیشت",
+	"show-alert-when-there-is-a-new-version-in-the-sidebar": "نیشانداری ئاگاداری لەکاتێک وشانی نوێ لەبەردەست بوو"
+}

@@ -1,0 +1,11 @@
+{
+	"plugin-data":
+	{
+		"name": "API",
+		"description": "پەیوەندی بە بلودیت بەیارمەتی پرۆتۆکلی HTTP.<br>زانیاری فرەتر دەربارەی ئەم زیادکراوە لە <a href=\"https://docs.bludit.com/en/api/introduction\">API Introduction</a> بخوێنن."
+	},
+	"api-token": "تێپەڕ وشەی API",
+	"amount-of-pages": "ژمارەی پەڕەکان",
+	"this-is-the-maximum-of-pages-to-return-when-you-call-to": "زۆرترین پەڕەکان کە دەگەڕێنەوە کاتێک /api/pages کە دووبارە دەخوێنێت",
+	"this-token-is-for-read-only-and-is-regenerated-every-time-you-install-the-plugin": "ئەم توکنە تەنها توانایی خوێندنی هەیە هەر کات کە  بوێ بکرێتەوە دوبارە دەبێتەوە"
+}

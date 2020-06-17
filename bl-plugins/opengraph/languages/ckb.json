@@ -1,0 +1,9 @@
+{
+	"plugin-data":
+	{
+		"name": "گرافی کراوە",
+		"description": "پرۆتۆکۆلی Open Graph پەڕەیێکی ماڵپەر دەکا بە چارتێکی کۆمەڵایتی ."
+	},
+	"set-a-default-image-for-content": "دابین کردنی وێنەی پێشگریمان بۆ ئەو بابەتانە کە وێنەیان نییە.",	
+	"set-your-facebook-app-id": "نووسینی ناسنامە Facebook App."
+}

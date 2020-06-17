@@ -1,0 +1,12 @@
+{
+	"plugin-data":
+	{
+		"name": "دیسکاس",
+		"description": "یسکاس خزمەتگوزاری گشتی بۆ ناردنی بۆچوون و لێدوانەکانە .<brبۆ سوود وەرگرتن لەم خزمەتگوزارییە دەبێ لە نێوی  <a href=\"https://disqus.com\">Disqus</a> خۆت تۆمار بکە."
+	},
+	"disqus-shortname": "کورتە ناوی دیسکاسس",
+	"enable-disqus-on-pages": "دیسکاس لە پەڕەکان",
+	"enable-disqus-on-static-pages": "دیسکاس لە پەڕەی ستاتیک",
+	"enable-disqus-on-sticky-pages": "دیسکاس لە پەڕەی لکاو",
+	"get-the-shortname-from-the-disqus-general-settings": "دریاوەرگرتنی ناوی کورت لە رێکخستنی گشتی دیسکاس"
+}

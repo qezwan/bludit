@@ -1,0 +1,12 @@
+{
+	"plugin-data":
+	{
+		"name": "EasyMDE",
+		"description": "دەستکاریکەری Markdown، پەیوەندیێکی سادە بۆ نووسین بە زمانی markup."
+	},
+	"toolbar": "شریتی ئامراز",
+	"tab-size": "ئەندازەی سەرخشت",
+	"autosave": "پاشکەوتی خۆکار",
+	"spell-checker": "هەڵە چن",
+	"content-here-supports-markdown-and-html-code": "ناوەرۆکی ئێرە لە Markdown وە کۆدی HTML پاڵپشتی دەکا"
+}

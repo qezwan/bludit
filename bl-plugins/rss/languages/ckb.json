@@ -1,0 +1,9 @@
+{
+	"plugin-data":
+	{
+		"name": "خۆراکی RSS",
+		"description": "ئەم زیادکراوە بۆ ماڵپەڕەکەتان خۆراکێکی RSS دروستدەکا.<br>خۆراکی ناونیشانی ماڵپەڕەکەتان https://example.com/rss.xml بەم جۆرە دەبێ"
+	},
+	"amount-of-items-to-show-on-the-feed": "ژمارەی بابەتەکان بۆ نیشاندان لە خۆراک",
+	"rss-url": "ناونیشانی RSS"
+}
